@@ -1,0 +1,110 @@
+
+body {
+    background: linear-gradient(180deg, #007cf76b 9.84%, rgba(152, 195, 232, 0) 70.12%);
+}
+
+#first_box {
+    background: black;
+    width: 1100px;
+    margin: auto;
+    border-radius: 10px 10px 10px 10px;
+}
+
+h1 {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 38px;
+    color: darkblue;
+}
+
+th {
+    border: 2px solid black;
+    padding: 5px 10px;
+    font-size: 25px;
+    text-align: center;
+    background-color: darkblue;
+    color: yellow;
+}
+
+td {
+    border: 2px solid black;
+    padding-left: 15px; /*отступ слева*/
+    padding-right: 15px; /*отступ справа*/
+    font-family: "Times New Roman", serif;
+    font-size: 20px;
+    text-align: center;
+    color: darkblue;
+}
+
+table {
+    margin: auto;
+    background-color: yellow;
+
+}
+
+.label1 {
+    height: 35px;
+
+    margin-left: 50px;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.label2 {
+    margin-top: 10px;
+}
+
+.label3 {
+    margin-top: 10px;
+}
+
+.div1 {
+    height: 35px;
+    margin-top: 5px;
+    margin-left: 50px;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+#second_box {
+    background: rgb(250, 252, 104);
+    width: 500px;
+    margin: auto;
+    border-radius: 10px 10px 10px 10px;
+    font-size: 20px;
+    color: darkblue;
+}
+
+h2 {
+    text-align: center;
+    color: darkblue;
+}
+
+.mame {
+    margin-left: 25px;
+}
+
+.race_profession {
+    margin-left: 25px;
+}
+
+.level_birthday_banner {
+    margin-left: 25px;
+}
+
+.span {
+    padding-left: 47%;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 10px;
+    color: yellow;
+    background-color: blue;
+    border-radius: 10px 10px 10px 10px;
+    user-select: none;
+}
+
+.button:hover {
+    opacity: 5;
+}
